@@ -34,7 +34,7 @@ function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h2 mb-4">Explora la solución</h1>
-            <p className="text-xl text-gray-600">Con esta herramienta tu podras seleccionar las peliculas que mas te gusten. Te ayudaremos a encontrar similares a ella.</p>
+            <p className="text-xl text-gray-600">Con esta herramienta,tu podras seleccionar las peliculas que mas te gusten. Te ayudaremos a encontrar similares a ella.</p>
           </div>
 
           {/* Section content */}
