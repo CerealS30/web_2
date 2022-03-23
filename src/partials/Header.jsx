@@ -19,8 +19,8 @@ function Header() {
       <div className="max-w-6xl mx-auto px-5 sm:px-6">
         <div className="flex items-center justify-between h-16 md:h-20">
 
-          {/* Site branding */}
-          <div className="flex-shrink-0 mr-4">
+        {/* Site branding */}
+        <div className="flex-shrink-0 mr-4">
             {/* Logo */}
             <Link to="/" className="block" aria-label="Cruip">
               <svg className="w-8 h-8" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
@@ -35,7 +35,7 @@ function Header() {
               </svg>
             </Link>
           </div>
-
+          
           {/* Site navigation */}
           <nav className="flex flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
