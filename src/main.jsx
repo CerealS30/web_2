@@ -14,7 +14,7 @@ import {
 
 // 2
 const httpLink = createHttpLink({
-  uri: 'http://35.233.162.185/graphql/'
+  uri: 'http://34.168.117.185/graphql/'
 });
 
 
