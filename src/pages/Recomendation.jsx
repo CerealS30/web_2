@@ -28,7 +28,7 @@ function Recomendation() {
     const api = await fetch("http://34.168.117.185:8000",
     {
       method: "POST",
-      mode: 'no-cors',
+      mode: 'cors',
       headers: {
         "Content-type": "application/json"
       },
